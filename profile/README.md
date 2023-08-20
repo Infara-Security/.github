@@ -7,7 +7,7 @@
 We reverse engineer web applications, using the websites own core functions against it.
 
 ## 🚀 About Us
-Infara Security is constantly making other frontend developers lives hell, we just love to cause chaos. So make sure you patch **every** single vulnerability in your web app, even if its theoretical, like putting core components of your site in the global scope, or even leaving your webpack config on dev. You better hope to god your backend is secure too, because we will find a way. :trollface:
+Infara Security is constantly making other frontend developers lives hell. We thrive on causing chaos. So make sure you patch **every** single vulnerability in your web app, even if its theoretical, like putting core components of your site in the global scope, or even leaving your webpack config on dev. You better hope to god your backend is secure too, because we will find a way. :trollface:
 
 ## 🌐 Our Expertise
 Our areas of expertise encompass:
