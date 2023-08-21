@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://infara-security.github.io/website/">
-    <img alt="Infara Security" src="https://github.com/Infara-Security/.github/blob/main/profile/infara.png">
+    <img alt="Infara Security" src="https://github.com/Infara-Security/.github/blob/main/profile/infara-small.png">
   </a>
 </p>
 
