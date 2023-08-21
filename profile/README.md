@@ -1,4 +1,11 @@
-<h1 align="center">Infara Security</h1>
+<p align="center">
+  <a href="https://infara-security.github.io/website/">
+    <img alt="Infara Security" src="https://github.com/Infara-Security/.github/blob/main/profile/infara.png">
+  </a>
+</p>
+
+
+
 <p align="center">
   <em>Your "obfuscator" is nothing to us.</em>
 </p>
